@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This Repo is created mainly for coursera capstone purpose.
+This Repo is created for coursera capstone projects.
