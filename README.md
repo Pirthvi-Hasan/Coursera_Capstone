@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This Repo is created for coursera capstone projects.
+This Repo contains Capstone Projects done for the **IBM Data Science Professional Certificate** course provided by *Coursera*.
